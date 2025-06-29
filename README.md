@@ -1,4 +1,4 @@
-# project
+# project -BUILT IN COLLABRATION WITH LATIKA PANDEY
 Sentiment Analysis of Mental Health Posts on Twitter
 
 #Project Overview
